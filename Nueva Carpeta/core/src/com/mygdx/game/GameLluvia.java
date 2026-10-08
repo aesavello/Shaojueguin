@@ -16,6 +16,7 @@ import com.badlogic.gdx.utils.ScreenUtils;
 
 
 public class GameLluvia extends ApplicationAdapter {
+	// Hola anto
        private OrthographicCamera camera;
 	   private SpriteBatch batch;	   
 	   private BitmapFont font;
